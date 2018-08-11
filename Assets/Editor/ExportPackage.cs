@@ -11,7 +11,7 @@ public class ExportPackage
     private const string ReadMe = "README.md";
     private const string License = "LICENSE";
 
-    [MenuItem("Assets/Export SocialGameTemplete")]
+    [MenuItem("Assets/Export MemoryInfoPlugin")]
     private static void Export()
     {
         string readmePath = Path.Combine(Application.dataPath, "Plugins/MemoryInfoPlugin", ReadMe);
