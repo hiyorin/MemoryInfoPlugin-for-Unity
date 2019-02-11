@@ -1,0 +1,3 @@
+[submodule "Assets/Plugins/MemoryInfoPlugin"]
+	path = Assets/Plugins/MemoryInfoPlugin
+	url = https://github.com/hiyorin/upm.MemoryInfoPlugin-for-Unity.git
